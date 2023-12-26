@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SecondTask": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "MY_DATABASE_CONNECTION": "Data Source=DESKTOP-10EMSR9\\SQLEXPRESS;Initial Catalog=Dab;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False"
+      }
+    }
+  }
+}
